@@ -1,8 +1,0 @@
-﻿  Soduko.c
-C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה א\סמסטר קיץ\תכנות מתקדם בשפת c\Soduko\Soduko\Soduko.c(144,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה א\סמסטר קיץ\תכנות מתקדם בשפת c\Soduko\Soduko\Soduko.c(582,6): warning C4013: 'gets' undefined; assuming extern returning int
-C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה א\סמסטר קיץ\תכנות מתקדם בשפת c\Soduko\Soduko\Soduko.c(623,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  main.c
-C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה א\סמסטר קיץ\תכנות מתקדם בשפת c\Soduko\Soduko\main.c(8,11): warning C4101: 'possible_solutions': unreferenced local variable
-  Generating Code...
-  Soduko.vcxproj -> C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה א\סמסטר קיץ\תכנות מתקדם בשפת c\Soduko\Debug\Soduko.exe
