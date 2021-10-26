@@ -1,8 +1,7 @@
 #include "soduko.h"
 
 // ***********Soduko Game***********
-//Tal Aharon 208458414 
-//Idan Cohen 208270595
+//Tal Aharon
 
 void main() {
 	Array*** possible_solutions;
