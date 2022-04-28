@@ -21,3 +21,17 @@ Each insertion of number to a cell needs to be considered with following rules:
  Open CMD and navigate to Soduko's folder and run:
   * `Soduko.exe` for playing.
   * `Soduko.sln` for watching the code locally.
+
+## Running examples:
+#### Starting:
+<img src="https://user-images.githubusercontent.com/82831070/165730758-6a0419fe-0126-474e-bc34-b1eb8446342f.png" width="400" height="300">
+
+#### Playing:
+<img src="https://user-images.githubusercontent.com/82831070/165731114-be5920ac-7e70-49b0-a42b-b4334466da7d.png" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/82831070/165731358-e79728f2-ae0d-4879-92ab-9162bb772dcc.png" width="400" height="300">
+
+#### At the end:
+<img src="https://user-images.githubusercontent.com/82831070/165731449-3b7ae548-ce1b-4a4d-8b19-7650c07c7a76.png" width="400" height="800">
+
+
+
