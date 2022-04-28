@@ -20,4 +20,4 @@ Each insertion of number to a cell needs to be considered with following rules:
  
  Open CMD and navigate to Soduko's folder and run:
   * `Soduko.exe` for playing.
-  * `Soduko.sln` for watching the code.
+  * `Soduko.sln` for watching the code locally.
